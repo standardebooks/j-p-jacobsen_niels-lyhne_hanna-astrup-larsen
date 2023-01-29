@@ -35,9 +35,12 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85035729</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">The chronicles of a young, disillusioned poet in search of love and meaning in 19th century Denmark.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;An aspiring poet, Niels Lyhne becomes torn between the romanticism and faith of old, and the modern notions of realism and reason. His relationship with different women, including his young aunt Edele, a free spirit of Copenhagen, and &lt;abbr&gt;Mrs.&lt;/abbr&gt; Boye, a passionate artist, only lead him to further disillusionment as he searches for meaning in a rapidly changing world.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/j-p-jacobsen"&gt;Jens Peter Jacobsen&lt;/a&gt; (1847-1885) is an important writer in the Danish literary cannon and a prominent figure in the scandinavian literary movement known as the Modern Breakthrough, a naturalist movement of debating literature that replaced romanticism at the end of the 19th century. But unlike his peers, Jacobsen was not interested in politics, but rather science and psychology.&lt;/p&gt;
+			&lt;p&gt;Prior to any of his writings he was mostly known for having introduced Charles Darwin to Denmark by translating &lt;i&gt;On the Origin of Species&lt;/i&gt; and &lt;i&gt;The Descent of Man&lt;/i&gt; into Danish in 1872 and 1875 respectively. His literary breakthrough came in 1876 with the historical fiction novel &lt;i&gt;Marie Grubbe&lt;/i&gt;, chronicling the life and social deroute of the real historical figure Marie Grubbe in the 17th century.&lt;/p&gt;
+			&lt;p&gt;He died of tuberculosis in his birthplace of Thisted in 1885 at the age of 38.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/55389</dc:source>
