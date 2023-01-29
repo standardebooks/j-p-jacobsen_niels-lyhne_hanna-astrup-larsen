@@ -45,7 +45,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/55389</dc:source>
 		<dc:source>https://archive.org/details/nielslyhne01larsgoog</dc:source>
-		<meta property="se:production-notes">Modernised spelling of Danish place and given names, particularly by changing ö to ø, aa to å and ae to æ where appropriate.</meta>
+		<meta property="se:production-notes">Modernised spelling of Danish place and personal names, particularly by changing ö to ø, aa to å and ae to æ where appropriate.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Niels_Lyhne</meta>
