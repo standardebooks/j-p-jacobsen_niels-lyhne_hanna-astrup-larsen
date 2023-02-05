@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/j-p-jacobsen/niels-lyhne/hanna-astrup-larsen</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2023-02-05T05:54:57Z</dc:date>
+		<meta property="dcterms:modified">2023-02-05T05:54:57Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -37,17 +37,15 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A young, disillusioned poet struggles to find love and meaning in 19th century Denmark.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;An aspiring poet, Niels Lyhne becomes torn between the romanticism and faith of old, and the modern notions of realism and reason. His relationship with different women, including his young aunt Edele, a free spirit of Copenhagen, and &lt;abbr&gt;Mrs.&lt;/abbr&gt; Boye, a passionate artist, only lead him to further disillusionment as he searches for meaning in a rapidly changing world.&lt;/p&gt;
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/j-p-jacobsen"&gt;Jens Peter Jacobsen&lt;/a&gt; (1847–1885) is an important writer in the Danish literary cannon and a prominent figure in the scandinavian literary movement known as the Modern Breakthrough, a naturalist movement of debating literature that replaced romanticism at the end of the 19th century. However unlike his peers, Jacobsen was not interested in politics, but rather science and psychology, which is reflected in the two novels he published in his lifetime.&lt;/p&gt;
-			&lt;p&gt;Prior to any of his writings he was mostly known for having introduced &lt;a href="https://standardebooks.org/ebooks/charles-darwin"&gt;Charles Darwin&lt;/a&gt; to Denmark by translating &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/charles-darwin/the-origin-of-species"&gt;The Origin of Species&lt;/a&gt;&lt;/i&gt; and &lt;i&gt;The Descent of Man&lt;/i&gt; into Danish in 1873 and 1875 respectively. His literary breakthrough came in 1876 with the historical fiction novel &lt;i&gt;Marie Grubbe&lt;/i&gt;, chronicling the life and social deroute of the real historical noblewoman Marie Grubbe in the 17th century.&lt;/p&gt;
-			&lt;p&gt;Published in 1880, &lt;i&gt;Niels Lyhne&lt;/i&gt;, Jacobsen’s second novel, was not as well received as his first neither by reviewers nor the public, and the second printing didn’t come until after his early death in 1885. In spite of this and his rather limited oeuvre, Jacobsen is still widely read in Denmark. In Germany, where both his novels were very popular, he greatly inspired &lt;a href="https://standardebooks.org/ebooks/thomas-mann"&gt;Thomas Mann&lt;/a&gt; and Rainer Maria Rilke.&lt;/p&gt;
+			&lt;p&gt;Niels Lyhne, an aspiring poet, is torn between the romanticism and faith of the old tradition, and modern notions of realism and reason. His relationship with different women, including his young aunt Edele, a free spirit of Copenhagen, and Mrs. Boye, a passionate artist, only lead him to further disillusionment as he searches for meaning in a rapidly changing world.&lt;/p&gt;
+			&lt;p&gt;Published in 1880, &lt;i&gt;Niels Lyhne&lt;/i&gt;, Jacobsen’s second novel, was not as well received as his first, neither by reviewers nor the public. There wasn’t a second printing until after his death in 1885.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/55389</dc:source>
 		<dc:source>https://archive.org/details/nielslyhne01larsgoog</dc:source>
 		<meta property="se:production-notes">Modernised spelling of Danish place and personal names, particularly by changing ö to ø, aa to å and ae to æ where appropriate. Endnote translated by the producer.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">70556</meta>
+		<meta property="se:reading-ease.flesch">64.64</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Niels_Lyhne</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/j-p-jacobsen_niels-lyhne_hanna-astrup-larsen</meta>
 		<dc:creator id="author">J. P. Jacobsen</dc:creator>
@@ -84,6 +82,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">David Grigg</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Grigg, David</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://thegriggs.org/david/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
