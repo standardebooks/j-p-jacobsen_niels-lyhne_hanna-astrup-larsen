@@ -38,7 +38,7 @@
 		<dc:description id="description">A young, disillusioned poet struggles to find love and meaning in 19th century Denmark.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Niels Lyhne, an aspiring poet, is torn between the romanticism and faith of the old tradition, and modern notions of realism and reason. His relationship with different women, including his young aunt Edele, a free spirit of Copenhagen, and Mrs. Boye, a passionate artist, only lead him to further disillusionment as he searches for meaning in a rapidly changing world.&lt;/p&gt;
-			&lt;p&gt;Published in 1880, &lt;i&gt;Niels Lyhne&lt;/i&gt;, Jacobsen’s second novel, was not as well received as his first, neither by reviewers nor the public. There wasn’t a second printing until after his death in 1885.&lt;/p&gt;
+			&lt;p&gt;Published in 1880, &lt;i&gt;Niels Lyhne&lt;/i&gt;, &lt;a href="https://standardebooks.org/ebooks/j-p-jacobsen"&gt;Jacobsen’s&lt;/a&gt; second novel, was not as well received as his first, neither by reviewers nor the public. There wasn’t a second printing until after his death in 1885.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/55389</dc:source>
