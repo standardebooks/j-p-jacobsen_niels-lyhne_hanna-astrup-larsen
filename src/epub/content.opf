@@ -45,7 +45,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/55389</dc:source>
 		<dc:source>https://archive.org/details/nielslyhne01larsgoog</dc:source>
 		<meta property="se:production-notes">Modernised spelling of Danish place and personal names, particularly by changing ö to ø, aa to å and ae to æ where appropriate. Endnote translated by the producer.</meta>
-		<meta property="se:word-count">70556</meta>
+		<meta property="se:word-count">70077</meta>
 		<meta property="se:reading-ease.flesch">64.64</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Niels_Lyhne</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/j-p-jacobsen_niels-lyhne_hanna-astrup-larsen</meta>
